@@ -43,7 +43,7 @@ I will continuously update this repository as I achieve new IBM certifications.
 
 ## Author
 
-Aluranae
+ninaglss15
 
 For any inquiries, feel free to reach out!
 
